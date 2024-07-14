@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <sstream>
-
+using namespace std;
 int main() {
     std::cout << "Choose operand" << std::endl;
     std::cout << "1 - Addition" << std::endl;
